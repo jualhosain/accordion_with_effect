@@ -87,6 +87,7 @@ body {
   background: white;
   border-radius: 8px;
   box-shadow: 0 0 23px 0px #3695e2;
+   overflow:hidden;
 }
 
 .boxHeader {
