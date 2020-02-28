@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="518" height="469" viewBox="0 0 518 469">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: rgba(0,237,255,0.2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#efbad3" stop-opacity="0.149"/>
+      <stop offset="1" stop-color="#8646c8" stop-opacity="0.278"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d6f4ff" stop-opacity="0.502"/>
+      <stop offset="1" stop-color="#44e5fa" stop-opacity="0.271"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_297" data-name="Group 297" transform="translate(-24 -596)">
+    <circle id="Ellipse_70" data-name="Ellipse 70" class="cls-1" cx="163" cy="163" r="163" transform="translate(216 739)"/>
+    <circle id="Ellipse_71" data-name="Ellipse 71" class="cls-2" cx="163" cy="163" r="163" transform="translate(24 739)"/>
+    <circle id="Ellipse_69" data-name="Ellipse 69" class="cls-3" cx="163" cy="163" r="163" transform="translate(72 596)"/>
+  </g>
+</svg>
